@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<time.h>
+
 int binary_search(int arr[], int l, int r, int x)
 {
     if(r>=l){
