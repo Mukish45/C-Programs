@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<time.h>
+
 int linear_search(int arr[], int n, int x)
 {
     int i;
