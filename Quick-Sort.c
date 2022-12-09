@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include<time.h>
 #include<grp.h>
+
 void swap(int *a, int *b) 
 {
     int t = *a;
