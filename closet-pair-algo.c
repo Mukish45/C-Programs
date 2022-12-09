@@ -60,7 +60,6 @@ float stripClosest(Point strip[], int size, float d)
     return min;
 }
 
-
 float closestUtil(Point P[], int n)
 {
     if (n <= 3)
