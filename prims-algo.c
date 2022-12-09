@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<stdlib.h>
- 
 #define infinity 9999
 #define MAX 20
  
